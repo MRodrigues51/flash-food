@@ -24,3 +24,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+.my-custom-text {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ajuste os valores conforme necessário */
+}
